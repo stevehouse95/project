@@ -1,5 +1,4 @@
-# project
-OTP Chat App 
+# OTP Chat App
 
 <b>V1.01</b>
 
@@ -7,23 +6,17 @@ Date created:
 Date Modified:
 Features:
 
-OTP Chat App 
-
 <b>V1.02</b>
 
 Date created:
 Date Modified:
 Features:
 
-OTP Chat App 
-
 <b>V1.03</b>
 
 Date created:
 Date Modified:
 Features:
-
-OTP Chat App 
 
 <b>V1.04</b>
 
